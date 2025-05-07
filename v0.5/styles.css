@@ -1,0 +1,24 @@
+#textview {
+  font-family: "Monospace";
+  font-size: 14px;
+}
+
+textview .keyword {
+  color: #569cd6; /* Keyword color */
+}
+
+textview .comment {
+  color: #6a9955; /* Comment color */
+}
+
+textview .string {
+  color: #d69d85; /* String literal color */
+}
+
+textview .function {
+  color: #c586c0; /* Function color */
+}
+
+textview .number {
+  color: #b5cea8; /* Number color */
+}
